@@ -3,7 +3,7 @@ Somos el grupo Hello World, de la Tecnicatura Universitaria en Programación.
 
 ## Proyecto
 El proyecto consiste en registrar las actividades del tercer semestre de la Tecnicatura.
-Cada miembro del grupo debera hacer sus contribuciones, para cumplir con sus tareas, cumpliendo la consigna estipulada por el Porfesor.
+Cada miembro del grupo deberá hacer sus contribuciones, para cumplir con sus tareas, llevando a cabo la consigna estipulada por el Profesor.
 
 ## Integrantes
 
