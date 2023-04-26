@@ -1,4 +1,5 @@
-<div style="text-align:center"><img src=![Logo1](/Logo/Logo%20Hello%20World.png)/></div>
+|![Logo1](/Logo/Logo%20Hello%20World.png)
+------------------------------------
 
 
 *-Somos el grupo Hello World<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌎</font></font>, de la Tecnicatura Universitaria en Programación.-*
