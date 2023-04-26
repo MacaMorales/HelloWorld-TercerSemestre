@@ -5,7 +5,7 @@ El proyecto consiste en registrar las actividades del tercer semestre de la Tecn
 Cada miembro del grupo debera hacer sus contribuciones, para cumplir con sus tareas, cumpliendo la consigna estipulada por el Porfesor.
 ##Integrantes
 
-> 1. Corvalán Emir
+1. Corvalán Emir
 2. Gómez Marcos
 3. Morales Macarena
 4. Reche F. Valentina
