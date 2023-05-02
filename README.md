@@ -28,3 +28,5 @@ SEMANA |SCRUM MASTER
 **<font style="vertical-align: inherit;">📌</font>Semana 7:** | 
 **<font style="vertical-align: inherit;">📌</font>Semana 8:** | 
 **<font style="vertical-align: inherit;">📌</font>Semana 9:** | 
+
+**Estoy haciendo una modificacion de prueba"_ (02/05/2023)
